@@ -51,9 +51,8 @@
                 <pre><code>npm install</code></pre>
                 <li>Start the development server:</li>
                 <pre><code>npm run dev</code></pre>
-              
-            </ol>
-        </div>
+               <ol>
+</div>
 
   <div class="section">
             <h2>Technologies Used</h2>
