@@ -51,7 +51,7 @@
                 <pre><code>npm install</code></pre>
                 <li>Start the development server:</li>
                 <pre><code>npm run dev</code></pre>
-                <li>Open your browser and visit <code>http://localhost:3000</code> to see the app in action.</li>
+              
             </ol>
         </div>
 
