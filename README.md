@@ -5,38 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timer App - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        ul {
-            margin: 10px 0;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 5px;
-            border-radius: 4px;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            color: #0073e6;
-        }
-    </style>
+    
+     
 </head>
 <body>
     <div class="container">
